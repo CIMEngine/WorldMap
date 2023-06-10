@@ -1,0 +1,29 @@
+{
+  "name": "worldmap",
+  "version": "1.0.0",
+  "description": "Map of the World",
+  "main": " ",
+  "scripts": {
+    "build": "cimengine-build --projectFolder ./map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIMEngine/worldmap.git"
+  },
+  "keywords": [
+    "map",
+    "world",
+    "geo",
+    "geojson",
+    "data"
+  ],
+  "author": "artegoser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CIMEngine/worldmap/issues"
+  },
+  "homepage": "https://github.com/CIMEngine/worldmap#readme",
+  "dependencies": {
+    "cimengine-build-tools": "^1.1.4"
+  }
+}
