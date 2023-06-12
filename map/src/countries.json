@@ -14,5 +14,13 @@
     "date": "April 17, 1982",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/125px-Flag_of_Canada_%28Pantone%29.svg.png",
     "about": "https://en.wikipedia.org/wiki/Canada"
+  },
+  {
+    "idc": "mexico",
+    "description": "Mexico officially the United Mexican States, is a country in the southern portion of North America.",
+    "name": "United Mexican States",
+    "date": "September 27, 1821",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png",
+    "about": "https://en.wikipedia.org/wiki/Mexico"
   }
 ]

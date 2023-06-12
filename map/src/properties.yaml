@@ -9,3 +9,6 @@ canada:
   stroke: "#bc2700"
   tags:
     - NATO
+mexico:
+  fill: "#e79f00"
+  stroke: "#e79f00"
