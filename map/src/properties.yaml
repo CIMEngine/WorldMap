@@ -1,6 +1,11 @@
 ---
 usa:
-  fill: "#09aa1c"
-  stroke: "#09aa1c"
+  fill: "#009abc"
+  stroke: "#009abc"
+  tags:
+    - NATO
+canada:
+  fill: "#bc2700"
+  stroke: "#bc2700"
   tags:
     - NATO

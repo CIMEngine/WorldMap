@@ -4,7 +4,8 @@
   "description": "Map of the World",
   "main": " ",
   "scripts": {
-    "build": "cimengine-build --projectFolder ./map"
+    "build": "cimengine-build --projectFolder ./map",
+    "country-fix": "cimengine-country-fix --countryPath"
   },
   "repository": {
     "type": "git",
