@@ -6,7 +6,8 @@
       "properties": {
         "name": "mexico",
         "fill": "#e79f00",
-        "stroke": "#e79f00"
+        "stroke": "#e79f00",
+        "area": "2 371 575.61"
       },
       "geometry": {
         "type": "Polygon",
@@ -549,7 +550,8 @@
         "stroke": "#bc2700",
         "tags": [
           "NATO"
-        ]
+        ],
+        "area": "12 816 534.60"
       },
       "geometry": {
         "type": "Polygon",
@@ -1852,7 +1854,8 @@
         "stroke": "#009abc",
         "tags": [
           "NATO"
-        ]
+        ],
+        "area": "10 616 317.76"
       },
       "geometry": {
         "type": "MultiPolygon",
