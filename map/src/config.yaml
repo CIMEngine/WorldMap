@@ -1,5 +1,5 @@
 # config is optional
-# ---
+---
 # tags:
 #   - tags
 #   - for
@@ -9,3 +9,4 @@
 #   new: "Properties"
 #   for: "Polygons"
 # cities: false
+generateColors: false

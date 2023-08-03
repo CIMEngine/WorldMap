@@ -1,14 +1,14 @@
 ---
-usa:
-  fill: "#009abc"
-  stroke: "#009abc"
-  tags:
-    - NATO
-canada:
-  fill: "#bc2700"
-  stroke: "#bc2700"
-  tags:
-    - NATO
-mexico:
-  fill: "#e79f00"
-  stroke: "#e79f00"
+# usa:
+#   fill: "#009abc"
+#   stroke: "#009abc"
+#   tags:
+#     - NATO
+# canada:
+#   fill: "#bc2700"
+#   stroke: "#bc2700"
+#   tags:
+#     - NATO
+# mexico:
+#   fill: "#e79f00"
+#   stroke: "#e79f00"

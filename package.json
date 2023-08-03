@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/CIMEngine/worldmap#readme",
   "dependencies": {
-    "cimengine-build-tools": "^1.3.2"
+    "cimengine-build-tools": "^1.4.2"
   }
 }
